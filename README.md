@@ -60,8 +60,8 @@ I am a career switcher -- :teacher: --> :computer:
 
 ### :fire: My Stats :
  <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jlcosby&theme=material-palenight&show_icons=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mscodedependent&theme=material-palenight&show_icons=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jlcosby&theme=material-palenight&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mscodedependent&theme=material-palenight&layout=compact" />
 </a>
