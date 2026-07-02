@@ -21,9 +21,9 @@
 
 ---
 
-### ::woman_technologist: About Me :<img src="https://media.giphy.com/media/STroE7bTBLTzxQUrZc/giphy.gif" height="200" align="right">
+### ::woman_technologist:: About Me :<img src="https://media.giphy.com/media/STroE7bTBLTzxQUrZc/giphy.gif" height="200" align="right">
 I am a career switcher -- :teacher: --> :computer:
-- :mag_right:  Currently serving as software consulting engineer
+- :mag_right:  Currently serving as platform engineer
 
 - :telescope: engineering platforms and such
 
